@@ -1,0 +1,17 @@
+{
+    "material design icons": {
+        "normal": "material_design_icons_normal_2c663cfa7b46f797836836f50897882f"
+    },
+    "ubuntu-light": {
+        "normal": "ubuntu_light_normal_36df6d9d1304bd3f90b48a398b3ca594"
+    },
+    "ubuntu-regular": {
+        "normal": "ubuntu_regular_normal_f1182f1be362844140cfc90e08072f62"
+    },
+    "ubuntu-medium": {
+        "normal": "ubuntu_medium_normal_c2b1844506e185e59a3874c57b13ef9b"
+    },
+    "ubuntu-bold": {
+        "normal": "ubuntu_bold_normal_8fac3a38c0abfa8291976b756ac43696"
+    }
+}
